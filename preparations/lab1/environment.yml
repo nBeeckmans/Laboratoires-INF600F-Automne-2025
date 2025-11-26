@@ -1,0 +1,14 @@
+name: inf600f-h2020
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip
+  - numpy
+  - scipy
+  - opencv
+  - matplotlib
+  - imageio
+  - scikit-image
+  - jupyter
